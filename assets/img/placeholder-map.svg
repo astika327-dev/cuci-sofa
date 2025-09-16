@@ -1,0 +1,8 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#fff0e6"/>
+  <g fill="#ffa552">
+    <circle cx="400" cy="250" r="180"/>
+  </g>
+  <text x="50%" y="50%" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#ff6a00">Area Layanan Bali</text>
+</svg>
